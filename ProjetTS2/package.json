@@ -1,0 +1,7 @@
+{
+    "name":"calculatrice",
+    "version":"2.0",
+     "scripts": {
+        "start":"liver-server"
+     }
+}
